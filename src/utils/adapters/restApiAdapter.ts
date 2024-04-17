@@ -1,0 +1,1 @@
+// Adapter for wrapping fetch API methods
